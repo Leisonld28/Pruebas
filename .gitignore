@@ -1,0 +1,21 @@
+/.metadata
+/.metadata/
+/.idea/
+/.recommenders/
+/target/
+automatizacion_base/.project
+automatizacion_base/.classpath
+automatizacion_base/.class
+automatizacion_base/.settings
+automatizacion_base/target/
+automatizacion_base/bin/
+automatizacion_base/idea/
+automatizacion_base/.metadata
+automatizacion_base/.metadata/
+automatizacion_base/*.log
+automatizacion_base/.csv
+automatizacion_base/automatizacion_base.iml
+~$Adherencia Pasarela de pagos.xlsx
+*.DS_Store
+*.project
+*.iml

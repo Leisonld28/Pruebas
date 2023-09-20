@@ -1,0 +1,5 @@
+Uso de entorno de Desarrollo Eclipse
+integracion con jenkins
+lenguaje gherkin y bdd
+pruebas funcionales
+pruebas de servicios
